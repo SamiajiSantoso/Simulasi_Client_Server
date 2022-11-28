@@ -1,7 +1,7 @@
 # Nama Kelompok
-Samiaji Santoso
-Nurdian
-Muhammad Haris
+- Samiaji Santoso
+- Nurdian
+- Muhammad Haris
 
 # KONFIGURASI TCP/IP
 
