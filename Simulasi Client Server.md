@@ -1,3 +1,9 @@
+# Nama Kelompok
+
+## Samiaji Santoso
+## Nurdian
+## Muhammad Haris
+
 # KONFIGURASI TCP/IP
 
 ## Konfigurasi IP Address Server
